@@ -1,3 +1,12 @@
+<div align="center">
+
+<a href="https://github.com/hashgesh/shelf"><img src="https://raw.githubusercontent.com/hashgesh/shelf/main/docs/banner.svg" width="49%" alt="shelf — TUI + CLI for browsing Conan 2 packages in Artifactory"/></a>
+<a href="https://github.com/hashgesh/shroud"><img src="https://raw.githubusercontent.com/hashgesh/shroud/master/assets/banner.svg" width="49%" alt="shroud — source-level C++ obfuscator"/></a>
+<br/>
+<a href="https://github.com/hashgesh/skill-hive"><img src="https://raw.githubusercontent.com/hashgesh/skill-hive/main/assets/banner.svg" width="98%" alt="skill-hive — agent skills for Claude Code and OpenCode"/></a>
+
+</div>
+
 Go/C++ tooling, Conan, and skills for Claude Code.
 
 - [shelf](https://github.com/hashgesh/shelf) — TUI + CLI for browsing Conan 2 packages in Artifactory and matching binaries to your profiles
